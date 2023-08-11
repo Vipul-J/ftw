@@ -147,6 +147,22 @@ body {
     border: 1px solid #ddd;
     border-radius: 5px;
   }
+
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #6c54f6;
+    border-radius: 5px;
+    background-color: #27292a;
+    color: #ffffff;
+  }
+
+  .form-control {
+    background-color: #27292a;
+    color: #ffffff;
+    border: 1px solid #6c54f6;
+  }
   
   /* Media query for mobile view */
   @media (max-width: 768px) {
